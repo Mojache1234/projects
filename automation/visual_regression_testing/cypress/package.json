@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "cypress:open": "../node_modules/.bin/cypress"
+  },
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "sample.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mojache1234"
+  },
+  "author": "Ariel Ongoco",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,69 @@
+1,Alabama,AL,USA,state,South,East South Central
+2,Alaska,AK,USA,state,West,Pacific
+3,Arizona,AZ,USA,state,West,Mountain
+4,Arkansas,AR,USA,state,South,West South Central
+5,California,CA,USA,state,West,Pacific
+6,Colorado,CO,USA,state,West,Mountain
+7,Connecticut,CT,USA,state,Northeast,New England
+8,Delaware,DE,USA,state,South,South Atlantic
+9,Florida,FL,USA,state,South,South Atlantic
+10,Georgia,GA,USA,state,South,South Atlantic
+11,Hawaii,HI,USA,state,West,Pacific
+12,Idaho,ID,USA,state,West,Mountain
+13,Illinois,IL,USA,state,Midwest,East North Central
+14,Indiana,IN,USA,state,Midwest,East North Central
+15,Iowa,IA,USA,state,Midwest,West North Central
+16,Kansas,KS,USA,state,Midwest,West North Central
+17,Kentucky,KY,USA,state,South,East South Central
+18,Louisiana,LA,USA,state,South,West South Central
+19,Maine,ME,USA,state,Northeast,New England
+20,Maryland,MD,USA,state,South,South Atlantic
+21,Massachusetts,MA,USA,state,Northeast,New England
+22,Michigan,MI,USA,state,Midwest,East North Central
+23,Minnesota,MN,USA,state,Midwest,West North Central
+24,Mississippi,MS,USA,state,South,East South Central
+25,Missouri,MO,USA,state,Midwest,West North Central
+26,Montana,MT,USA,state,West,Mountain
+27,Nebraska,NE,USA,state,Midwest,West North Central
+28,Nevada,NV,USA,state,West,Mountain
+29,New Hampshire,NH,USA,state,Northeast,New England
+30,New Jersey,NJ,USA,state,Northeast,Mid-Atlantic
+31,New Mexico,NM,USA,state,West,Mountain
+32,New York,NY,USA,state,Northeast,Mid-Atlantic
+33,North Carolina,NC,USA,state,South,South Atlantic
+34,North Dakota,ND,USA,state,Midwest,West North Central
+35,Ohio,OH,USA,state,Midwest,East North Central
+36,Oklahoma,OK,USA,state,South,West South Central
+37,Oregon,OR,USA,state,West,Pacific
+38,Pennsylvania,PA,USA,state,Northeast,Mid-Atlantic
+39,Rhode Island,RI,USA,state,Northeast,New England
+40,South Carolina,SC,USA,state,South,South Atlantic
+41,South Dakota,SD,USA,state,Midwest,West North Central
+42,Tennessee,TN,USA,state,South,East South Central
+43,Texas,TX,USA,state,South,West South Central
+44,Utah,UT,USA,state,West,Mountain
+45,Vermont,VT,USA,state,Northeast,New England
+46,Virginia,VA,USA,state,South,South Atlantic
+47,Washington,WA,USA,state,West,Pacific
+48,West Virginia,WV,USA,state,South,South Atlantic
+49,Wisconsin,WI,USA,state,Midwest,East North Central
+50,Wyoming,WY,USA,state,West,Mountain
+51,Washington DC,DC,USA,capitol,South,South Atlantic
+52,Puerto Rico,PR,USA,commonwealth,,
+53,U.S. Virgin Islands,VI,USA,territory,,
+54,American Samoa,AS,USA,territory,,
+55,Guam,GU,USA,territory,,
+56,Northern Mariana Islands,MP,USA,commonwealth,,
+57,British Columbia,BC,Canada,province,Pacific,Pacific
+58,Manitoba,MB,Canada,province,Prairie,Prairie
+59,New Brunswick,NB,Canada,province,Atlantic,Atlantic
+60,Newfoundland and Labrador,NL,Canada,province,Atlantic,Atlantic
+61,Northwest Territories,NT,Canada,province,Northern,Northern
+62,Nova Scotia,NS,Canada,province,Atlantic,Atlantic
+63,Nunavut,NU,Canada,province,Northern,Northern
+64,Ontario,ON,Canada,province,Core,Core
+65,Prince Edward Island,PE,Canada,province,Atlantic,Atlantic
+66,Québec,QC,Canada,province,Core,Core
+67,Saskatchewan,SK,Canada,province,Prairie,Prairie
+68,Yukon Territory,YT,Canada,province,Northern,Northern
+69,Alberta,AB,Canada,province,Prairie,Prairie

@@ -1,0 +1,34 @@
+Sample Data:
+
+{
+    90276 = {
+        UA-90276-2 = [
+            http:\/\/www.vocera.com,
+            http:\/\/www.vocera.com,
+            http:\/\/www.vocera.com,
+            http:\/\/webstage.vocera.com,
+            http:\/\/www.vocera.com/uk
+        ],
+        UA-90276-5 = [
+            http:\/\/solutions.vocera.com
+        ],
+        UA-90276-4 = [
+            http:\/\/communicate.vocera.com
+        ]
+    },
+    90276 = {
+        UA-90276-2 = [
+            http:\/\/www.vocera.com,
+            http:\/\/www.vocera.com,
+            http:\/\/www.vocera.com,
+            http:\/\/webstage.vocera.com,
+            http:\/\/www.vocera.com/uk
+        ],
+        UA-90276-5 = [
+            http:\/\/solutions.vocera.com
+        ],
+        UA-90276-4 = [
+            http:\/\/communicate.vocera.com
+        ]
+    }
+}

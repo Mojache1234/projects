@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "puppeteer": "^6.5.0",
+    "inquirer": "^6.5.0"
+  },
+  "dependencies": {
+    "image-diff": "^2.0.0"
+  }
+}
